@@ -1,7 +1,6 @@
 package LinkedList;
 
 
-
 class Node2{
 
 
